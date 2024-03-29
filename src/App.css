@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.body{
+  background-color: rgb(0, 0, 0);
+  max-width: 90%;
+  margin: auto;
+  height: 100vh;
+}
