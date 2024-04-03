@@ -38,7 +38,11 @@
 }
 
 .body{
+
+  background-image: url('./Images/BackGroundWaterfall.jpg');
   background-color: rgb(0, 0, 0);
+  background-size: cover; /* Ensures the background image covers the entire container */
+  background-position: center; /* Aligns the background image to the center */
   max-width: 90%;
   margin: auto;
   height: 100vh;
